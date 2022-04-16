@@ -10,7 +10,7 @@
     width: 100%;
 }
 body {
-    margin: auto 0;
+    margin: 0 auto;
     font-family: "Helvetica Neue",Helvetica,Arial,sans;
 }
 li {
@@ -52,8 +52,12 @@ a{
     display:flex;
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    height: 70vh;
 
+}
+.cover {
+    width: 30rem;
+    
 }
 
 /* grid */
@@ -80,9 +84,7 @@ footer {
     text-align: center;
 }
 
-.cover {
-    width: 30rem;
-}
+
 
 
 
